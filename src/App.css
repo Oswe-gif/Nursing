@@ -40,3 +40,60 @@
 .read-the-docs {
   color: #888;
 }
+
+
+
+h1 {
+  font-family: 'Open Sans', sans-serif; /* Mismo fuente sans-serif */
+  font-size: 32px; /* Aumenta el tamaño para mayor jerarquía */
+  letter-spacing: 1.5px; /* Aumenta ligeramente el espacio entre letras */
+  color: #222; /* Color un poco más oscuro para resaltar */
+  margin-bottom: 30px; /* Aumenta el margen inferior para mayor separación */
+  padding: 15px 30px; /* Aumenta el padding para títulos más grandes */
+  border-bottom: 2px solid #ddd; /* Línea un poco más gruesa */
+  text-align: left; /* Mismo centrado */
+}
+
+.parrafo {
+  font-family: 'Open Sans', sans-serif; /* Fuente sans-serif legible */
+  font-size: 16px; /* Tamaño de fuente adecuado para la lectura */
+  line-height: 1.5; /* Aumenta el espacio entre líneas para mejorar la legibilidad */
+  color: #333; /* Color de texto con buen contraste */
+  margin-bottom: 20px; /* Margen inferior para separar párrafos */
+  padding: 10px; /* Relleno para agregar espacio alrededor del texto */
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+h2 {
+  font-family: Montserrat, sans-serif;
+  font-size: 24px;
+  letter-spacing: 1px;
+  color: #333;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+
+.photo{
+  width:"50";
+  height:"50";
+}
+
+.figure-title{
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+}
+
+.image-description{
+  font-style: italic;
+}

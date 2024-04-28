@@ -1,0 +1,39 @@
+/* General Styles */
+
+  .profile {
+    width: 300px; /* Adjust width as needed */
+    margin: 50px auto; /* Center the profile container */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 5px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    display: inline-block;
+    
+  }
+  
+  .profile-picture {
+    width: 130px; /* Adjust image size */
+    height: 130px;
+    border-radius: 60%; /* Circular image */
+    margin-bottom: 20px;
+  }
+  
+  .profile-info {
+    text-align: center; /* Center text within info section */
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .profile-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .profile-profession,
+  .profile-semester {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+ 
+  
