@@ -158,6 +158,56 @@ function App() {
           </figcaption>
         </figure>
 
+        <h3>Kit de emergencia</h3>
+
+        <figure>
+          <p className='figure-title'>Imagen 7</p>
+          <img
+              src={botoquinA.botiquin7}
+              alt="Foto general"
+              width="400"
+              height="341" />
+          <figcaption className='image-description'>
+            Kit de emergencia cerrado con sus materiales
+          </figcaption>
+        </figure>
+
+        <figure>
+          <p className='figure-title'>Imagen 8</p>
+          <img
+              src={botoquinA.botiquin8}
+              alt="Foto general"
+              width="400"
+              height="341" />
+          <figcaption className='image-description'>
+            Kit de emergencia cerrado con sus materiales
+          </figcaption>
+        </figure>
+
+        <figure>
+          <p className='figure-title'>Imagen 9</p>
+          <img
+              src={botoquinA.botiquin9}
+              alt="Foto general"
+              width="400"
+              height="341" />
+          <figcaption className='image-description'>
+            Kit de emergencia cerrado con sus materiales
+          </figcaption>
+        </figure>
+
+        <figure>
+          <p className='figure-title'>Imagen 10</p>
+          <img
+              src={botoquinA.botiquin10}
+              alt="Foto general"
+              width="400"
+              height="341" />
+          <figcaption className='image-description'>
+            Kit de emergencia cerrado con sus materiales
+          </figcaption>
+        </figure>
+  
 
 
         <h2>Momento B</h2>
@@ -230,7 +280,7 @@ function App() {
           <figure>
             <p className='figure-title'>Figura 8</p>
             <img
-              src={botoquinB.despues}
+              src={botoquinB.despuesSegunda}
               alt="La cabeza y el torso de un esqueleto de dinosaurio;
                       tiene una cabeza grande con dientes largos y afilados"
               width="400"
