@@ -11,7 +11,20 @@ import evacuar1 from './evacuar1.jpg'
 import evacuar2 from './evacuar2.jpg'
 import evacuar3 from './evacuar3.jpg'
 import evacuar4 from './evacuar4.jpg'
-
+import capacitacion1 from './capacitacion1.jpg'
+import capacitacion2 from './capacitacion2.jpg'
+import capacitacion3 from './capacitacion3.jpg'
+import capacitacion4 from './capacitacion4.jpg'
+import capacitacion5 from './capacitacion5.jpg'
+import capacitacion6 from './capacitacion6.jpg'
+import capacitacion7 from './capacitacion7.jpg'
+import capacitacion8 from './capacitacion8.jpg'
+import capacitacion9 from './capacitacion9.jpg'
+import capacitacion10 from './capacitacion10.jpg'
+import capacitacion11 from './capacitacion11.jpg'
+import capacitacion12 from './capacitacion12.jpg'
+import capacitacion13 from './capacitacion13.jpg'
+import capacitacion14 from './capacitacion14.jpg'
 
 export const botoquinB ={
     botiquin1,
@@ -26,5 +39,19 @@ export const botoquinB ={
     evacuar1,
     evacuar2,
     evacuar3,
-    evacuar4
+    evacuar4,
+    capacitacion1,
+    capacitacion2,
+    capacitacion3,
+    capacitacion4,
+    capacitacion5,
+    capacitacion6,
+    capacitacion7,
+    capacitacion8,
+    capacitacion9,
+    capacitacion10,
+    capacitacion11,
+    capacitacion12,
+    capacitacion13,
+    capacitacion14
 }
